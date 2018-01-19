@@ -9,6 +9,8 @@ setup(
     name='ironworker',
     version=__version__.__version__,
     description='Python Interface to Iron.io Worker API',
+    long_description=open('README.md').read(),
+    license=open('LICENSE').read(),
     author='Adam Jaso',
     author_email='ajaso@hsdp.io',
     packages=['ironworker'],
