@@ -1,0 +1,13 @@
+tags
+.DS_Store
+.idea/
+dist/
+__pycache__/
+env/
+env3/
+build/
+*.swp
+*.swo
+*.pyc
+*.egg-info
+iron.json
